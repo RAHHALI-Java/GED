@@ -1,4 +1,4 @@
-
+<script src="http://maps.google.com/maps/api/js?v=3.6&sensor=false" style="">
 			window.google = window.google || {};
 			google.maps = google.maps || {};
 			(function() {
@@ -17,3 +17,4 @@
 			var loadScriptTime = (new Date).getTime();
 			getScript("http://maps.gstatic.com/intl/fr_ALL/mapfiles/api-3/15/19/main.js");
 			})();
+	</script>
